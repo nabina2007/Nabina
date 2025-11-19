@@ -1,1 +1,4 @@
 # Nabina
+a='Nabina'
+b='begum'
+print(a+b)
